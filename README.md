@@ -3,14 +3,14 @@
 # Terraform
 
 ## Terraform Installation
-[Installation Page](https://learn.hashicorp.com/tutorials/terraform/install-cli)
+- [Installation Page](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
 ## Terraform Lifecycle
-[Official Docs](https://www.terraform.io/language/meta-arguments/lifecycle)
+- [Official Docs](https://www.terraform.io/language/meta-arguments/lifecycle)
 
 ## Provissioners
-[Official Docs](https://www.terraform.io/language/resources/provisioners/syntax)
-[Remote Exec](https://www.terraform.io/language/resources/provisioners/remote-exec)
+- [Official Docs](https://www.terraform.io/language/resources/provisioners/syntax)
+- [Remote Exec](https://www.terraform.io/language/resources/provisioners/remote-exec)
 
 ## Taint
 [Official Docs](https://www.terraform.io/cli/commands/taint)
