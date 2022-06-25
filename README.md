@@ -45,5 +45,8 @@
 - [Official Docs](https://www.terraform.io/language/meta-arguments/depends_on)
 - [Examples on Official Docs](https://learn.hashicorp.com/tutorials/terraform/dependencies)
 
+## Dynamic
+- [Official Docs](https://www.terraform.io/language/expressions/dynamic-blocks)
+
 ## Projects
 - [Kubernetes Orchestration](https://github.com/DhawanRachakonda/spring-mongo-rest/tree/master/terraform)
